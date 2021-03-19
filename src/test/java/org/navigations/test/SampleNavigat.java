@@ -20,6 +20,8 @@ public static void main(String[] args) {
 		driver.navigate().refresh();
 		txtUserName.sendKeys("welcome");
 		
+		driver.quit();
+		
 	
 
  }
