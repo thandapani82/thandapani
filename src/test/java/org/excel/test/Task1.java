@@ -46,6 +46,8 @@ public class Task1 {
 	    
 		FileOutputStream stream2 = new FileOutputStream(file);
 		b.write(stream2);
+		
+		
 	
 		
 	}
